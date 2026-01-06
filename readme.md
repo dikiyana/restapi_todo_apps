@@ -1,5 +1,3 @@
-Siap 👍 Berikut **teks `README.md` siap copy–paste** tanpa penjelasan tambahan:
-
 ````md
 # Todo API
 
@@ -66,9 +64,4 @@ http://localhost:3000
 * Pastikan konfigurasi database benar
 * Pastikan port 3000 tidak digunakan aplikasi lain
 
-## License
 
-Private project untuk keperluan pembelajaran.
-
-```
-```
